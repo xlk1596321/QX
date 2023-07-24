@@ -1,0 +1,19 @@
+-host, mrn-backup.meituan.net, reject
+-host, ddplus.meituan.net, reject
+-host, img.meituan.net, reject
+-host, awp-assets.meituan.net, reject
+-host, qcloud.dpfile.com, reject
+host, s3plus-shon.meituan.net, reject
+host, api.neixin.cn, reject
+host, chatroom.meituan.com, reject
+host, portal-portm.meituan.com, reject
+host, dreport.meituan.net, reject
+host, tte.meituan.com, reject
+host, r1.dianping.com, reject
+host, mapi.dianping.com, reject
+host, r.dianping.com, reject
+host-suffix, d.meituan.net, reject
+host, medusa.dianping.com, reject
+host, api-unionid.meituan.com, reject
+host, lx0.meituan.com, reject
+
